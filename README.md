@@ -2,6 +2,11 @@
 
 Templates you can use to quickly customize or jump start work with the [Cybersecurity Maturity Matrix](https://cybermaturitymatrix.com/).
 
+## Contributing a template
+1. Customize rows on the Cybersecurity Maturity Matrix site
+2. Export JSON
+3. Clone this repository, add your file and a row at the bottom of the table with details, and submit a PR
+
 ## Using templates
 1. Locate the template you want to use
 2. Right-click and "Save link as" to save the .json file locally
