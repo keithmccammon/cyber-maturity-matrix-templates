@@ -1,1 +1,140 @@
-[{"RowHeading":"Phishing\nT1566\n","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}},{"RowHeading":"Exploit Public-Facing Application\nT1190\n","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}},{"RowHeading":"Drive-By Compromise\nT1189","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}},{"RowHeading":"Valid Accounts\nT1133","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}},{"RowHeading":"External Remote Services\nT1078\t","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}},{"RowHeading":"\tSupply Chain Compromise\nT1195","Column1":{"state":"","annotation":""},"Column2":{"state":"","annotation":""},"Column3":{"state":"","annotation":""},"Column4":{"state":"","annotation":""},"Column5":{"state":"","annotation":""}}]
+[
+    {
+        "RowHeading": "Phishing\nT1566\n",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    },
+    {
+        "RowHeading": "Exploit Public-Facing Application\nT1190\n",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    },
+    {
+        "RowHeading": "Drive-By Compromise\nT1189",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    },
+    {
+        "RowHeading": "Valid Accounts\nT1133",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    },
+    {
+        "RowHeading": "External Remote Services\nT1078\t",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    },
+    {
+        "RowHeading": "\tSupply Chain Compromise\nT1195",
+        "Column1": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column2": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column3": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column4": {
+            "state": "",
+            "annotation": ""
+        },
+        "Column5": {
+            "state": "",
+            "annotation": ""
+        }
+    }
+]
