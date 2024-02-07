@@ -10,7 +10,7 @@ Templates you can use to quickly customize or jump start work with the [Cybersec
 ## Row headings
 These files populate the y-axis, and contain alternative asset classes, security domains, and threats. 
 
-| **Name** | **Type** | **Contributed By** | **Notes** |
+| **Name** | **Type** | **Author** | **Notes** |
 |----------|----------|------------|-----------------|
 | [Cyber Defense Matrix](/row-headings/cyber-defense-matrix.json) | Assets | Sounil Yu | https://cyberdefensematrix.com |
 | [Top intial access vectors (2022)](/row-headings/top-initial-access-techniques-2022.json) | Threats | Keith McCammon | https://kwm.me/articles/top-initial-access-vectors-2022/ |
