@@ -2,17 +2,17 @@
 
 Templates you can use to quickly customize or jump start work with the [Cybersecurity Maturity Matrix](https://cybermaturitymatrix.com/).
 
-## Contributing a template
-1. Customize rows on the Cybersecurity Maturity Matrix site
+#### Contributing a template
+1. Customize row headings on the Cybersecurity Maturity Matrix site
 2. Export JSON
 3. Clone this repository, add your file and a row at the bottom of the table with details, and submit a PR
 
-## Using templates
+#### Using templates
 1. Locate the template you want to use
 2. Right-click and "Save link as" to save the .json file locally
 3. On the Cybersecurity Maturity Matrix site, use "Restore JSON" to upload the .json file
 
-## Row headings
+## Row heading templates
 These files populate the y-axis, and contain alternative asset classes, security domains, and threats. 
 
 | **Name** | **Type** | **Author** | **Notes** |
